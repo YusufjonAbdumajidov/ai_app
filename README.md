@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
   <br />
     <a href="https://youtu.be/ZBCUegTZF7M?si=ubt0vk70lSjt6DCs" target="_blank">
       <img src="https://i.postimg.cc/5NR9bxFM/Sora-README.png" alt="Project Banner">
@@ -13,7 +13,7 @@
 
   <h3 align="center">Video Sharing App</h3>
 
-</div>
+</div> -->
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
